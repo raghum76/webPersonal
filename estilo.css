@@ -1,0 +1,43 @@
+.padre{
+   width : 300px;
+   height: 2500px;
+   background : lime;
+   margin: 20px;
+   position: relative;
+}
+
+.hijo1{
+   width:50px;
+   height: 50px;
+   background: red;
+   margin: 2px;
+/*   position: fixed;
+   top: 20px;
+   left: 50px;*/
+   float: right; left;
+   opacity;
+   visibility
+
+}
+
+.hijo2{
+   width:70px;
+   height: 70px;
+   background: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
